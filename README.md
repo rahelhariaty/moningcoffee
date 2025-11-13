@@ -1,6 +1,8 @@
 # morningcoffee
-Cafe Expansion Data Analytics in Big Query \n
-Dataset : https://www.kaggle.com/datasets/najir0123/monday-coffee-sql-data-analysis-project/ \n
+Cafe Expansion Data Analytics in Big Query
+
+Dataset : https://www.kaggle.com/datasets/najir0123/monday-coffee-sql-data-analysis-project/
+
 Big Query Link : https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1smorning-coffee-477921!2sus-central1!3se3af2287-d33e-4efc-9e9e-19f2252890ed!2e1
 
 ## Objective
